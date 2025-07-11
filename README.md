@@ -39,3 +39,13 @@ By combining historical price and volume data with real-world policy events, thi
 ## 👩‍💻 About the Author
 **Cahya Ratri Lukita Putri**  
 A curious and driven learner passionate about trading, data analysis, and turning real-world events into actionable insight.
+
+---
+
+## 📬 Contact / Portfolio
+
+Feel free to connect or view more projects through my social platforms:
+
+- 🐙 [GitHub](https://github.com/cacastudymarket)
+- 📸 [Instagram](https://instagram.com/cahyaratry__)
+- 💼 [LinkedIn](https://linkedin.com/in/cahyaratrilukitaputri)
